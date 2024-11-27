@@ -1,6 +1,3 @@
-Hey! So the file contains the code I wrote for performing the task of machine learning. 
-You will find explanation of almost every cell there in the code.
-You can even use the CSV file and perform it yourself.
-Happy Coding!
+# ML Project: Predicting Car Prices  
 
-PS: Do let me know if i should change something or should try something else.
+This project aims to build a machine learning model to predict car prices based on features like mileage, year, brand, and fuel type. Using a structured workflow, the dataset was cleaned, explored, and visualized to uncover key trends affecting car prices. Multiple regression models were trained and evaluated, with the best model achieving a reliable RMSE and R² score. The project uses Python and libraries like Pandas, NumPy, scikit-learn, and Matplotlib. Users can clone the repository, install dependencies, and run the project to predict car prices effectively.
